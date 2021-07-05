@@ -1,11 +1,8 @@
 # Actividad Integradora 1
 ## Equipo 1
 - David Alonso Cantú Martínez   A00822455
-
 - 
-
 - 
-
 - 
 
 
