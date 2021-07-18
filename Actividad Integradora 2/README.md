@@ -25,13 +25,13 @@ Asegurese de contar con los paquetes de **nltk, tweepy, numpy, scikit-learn, ten
 
 Todas las dependencias vienen adjuntas en el **requirements.txt**.
 
-Recomendamos tener un *venv* para instalar las dependencias de forma independiente.
+Recomendamos tener un *venv* para instalar las dependencias de forma independiente y correr el notebook desde *colab*
 
 Make sure to have **nltk, tweepy, numpy, scikit-learn,  tensorflow, SpeechBrain, praw, kaggle, pandas, keras,** and **matplotlib** packages installed in your Python environment.
  
 All dependencies are attached in the **requirements.txt**.
 
-We do recommend to create a *venv* for this particular proyect in order not to mix dependencies.
+We do recommend to create a *venv* for this particular proyect in order not to mix dependencies and to run the notebook in *colab*.
 
 `$ pip install -r requirements.txt`
 
@@ -41,3 +41,5 @@ We do recommend to create a *venv* for this particular proyect in order not to m
 
 ### Recursos / Resources
 - [Sentiment Analyzer Tutorial](https://www.youtube.com/playlist?list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL)
+- [Base de datos con reviews negativas y positivas](https://pythonprogramming.net/static/downloads/short_reviews/)
+- [Base de datos con tweets positivos y negativos](https://www.kaggle.com/kazanova/sentiment140)
