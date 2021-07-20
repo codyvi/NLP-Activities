@@ -25,13 +25,13 @@ Asegurese de contar con los paquetes de **nltk, tweepy, numpy, scikit-learn, ten
 
 Todas las dependencias vienen adjuntas en el **requirements.txt**.
 
-Recomendamos tener un *venv* para instalar las dependencias de forma independiente y correr el notebook desde *colab*
+Es necesario correr el código desde Google colab, y tener credenciales para las API's de *kaggle*, *twitter*, *youtube*, y *reddit*.
 
 Make sure to have **nltk, tweepy, numpy, scikit-learn,  tensorflow, SpeechBrain, praw, kaggle, pandas, keras,** and **matplotlib** packages installed in your Python environment.
  
 All dependencies are attached in the **requirements.txt**.
 
-We do recommend to create a *venv* for this particular proyect in order not to mix dependencies and to run the notebook in *colab*.
+You need to run the code from Google colab, and have credentials for *kaggle*, *twitter*, *youtube*, and *reddit* APIs.
 
 `$ pip install -r requirements.txt`
 
