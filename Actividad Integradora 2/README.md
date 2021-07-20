@@ -21,13 +21,13 @@ Como la actividad pasada, este proyecto es útil para poder ver como expandir el
 Like the last activity, this project is useful to be able to see how to expand the sentiment analyzer we created and how to include it with different technologies.
 
 ## ¿Cómo inicializar el proyecto? / How to get started with this project?
-Asegurese de contar con los paquetes de **nltk, tweepy, numpy, scikit-learn, tensorflow, SpeechBrain, praw, kaggle, pandas, keras, ** y **matplotlib** instalados en su ambiente de desarrollo de Python.
+Asegurese de contar con los paquetes de **nltk, tweepy, numpy, scikit-learn, tensorflow, SpeechBrain, praw, kaggle, pandas, keras, credentials, selenium, textblob**, y **matplotlib** instalados en su ambiente de desarrollo de Python.
 
 Todas las dependencias vienen adjuntas en el **requirements.txt**.
 
 Es necesario correr el código desde Google colab, y tener credenciales para las API's de *kaggle*, *twitter*, *youtube*, y *reddit*.
 
-Make sure to have **nltk, tweepy, numpy, scikit-learn,  tensorflow, SpeechBrain, praw, kaggle, pandas, keras,** and **matplotlib** packages installed in your Python environment.
+Make sure to have **nltk, tweepy, numpy, scikit-learn, tensorflow, SpeechBrain, praw, kaggle, pandas, keras, credentials, selenium, textblob**, and **matplotlib** packages installed in your Python environment.
  
 All dependencies are attached in the **requirements.txt**.
 
