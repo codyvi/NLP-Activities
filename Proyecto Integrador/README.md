@@ -9,6 +9,11 @@
 
 ---
 
+## Arquitectura del Repositorio / Repository Architecture
+El proyecto principal esta en el archivo **Modelo Proyecto Final.ipynb**, para poder correr este se necesitan los datos que se encuentran en la carpeta de **Data** dentro de la otra carpeta de **Data and Data Cleaning**. Esta carpeta antes mencionada contiene otras carpetas que contienen los notebooks de limpieza de datos y los archivos .py y notebook de obtención de datos.
+
+The main project is in the **Final Project Model.ipynb** file, in order to run this you need the data that is in the **Data** folder inside the other **Data and Data Cleaning** folder. This aforementioned folder contains other folders containing the data cleaning notebooks and the .py and data fetching notebook files.
+
 ## ¿Qué hace este proyecto? / What does this project do?
 Este proyecto hace un analizador de textos para detectar si algun texto obtenido de Reddit o Twitter entra dentro de un comentario depresiovo, esto se hizo usando bert con el wrapper de la liberia de ktrain. De lado, revisamos que es lo que pasaria si usamos bert con textos largos que sobrepasen los 512 tokens de Bert, esto basado en el paper **How to Fine-Tune BERT for Text Classification?**.
 
@@ -21,13 +26,13 @@ Este proyecto es útil para poder detectar si algún texto es depresivo y de lad
 This project is useful to be able to detect if any text is depressive and also to test how much performance the model would give us with long texts that went through a summarizer.
 
 ## ¿Cómo inicializar el proyecto? / How to get started with this project?
-Asegurese de contar con los paquetes de **ktrain, pandas, numpy, kaggle, matplotlib** y **tensorflow** instalados en su ambiente de desarrollo de Python.
+Asegurese de contar con los paquetes de **ktrain, pandas, numpy, kaggle, matplotlib, tweepy, pymongo, credentials, transformers** y **tensorflow** instalados en su ambiente de desarrollo de Python.
 
 Todas las dependencias vienen adjuntas en el **requirements.txt**.
 
 Es necesario correr el código desde Google colab, y tener credenciales para las API's de *kaggle*, *twitter*, y *reddit*.
 
-Make sure you have the **ktrain, pandas, numpy, kaggle, matplotlib** and **tensorflow** packages installed in your Python development environment.
+Make sure you have the **ktrain, pandas, numpy, kaggle, matplotlib, tweepy, pymongo, credentials, transformers** and **tensorflow** packages installed in your Python development environment.
 
 All dependencies are attached in the **requirements.txt**.
 
