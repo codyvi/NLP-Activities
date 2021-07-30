@@ -26,15 +26,19 @@ Este proyecto es útil para poder detectar si algún texto es depresivo y de lad
 This project is useful to be able to detect if any text is depressive and also to test how much performance the model would give us with long texts that went through a summarizer.
 
 ## ¿Cómo inicializar el proyecto? / How to get started with this project?
-Asegurese de contar con los paquetes de **ktrain, pandas, numpy, kaggle, matplotlib, tweepy, pymongo, credentials, transformers** y **tensorflow** instalados en su ambiente de desarrollo de Python.
+Asegurese de contar con los paquetes de **ktrain, pandas, numpy, kaggle, matplotlib, tweepy, pymongo, credentials, transformers, seaborn** y **tensorflow** instalados en su ambiente de desarrollo de Python.
 
 Todas las dependencias vienen adjuntas en el **requirements.txt**.
 
+Descargar modelo de bert si se quiere probar de [aqui](https://drive.google.com/drive/folders/1-8795s0Aa8c3DfuAMa3_wX5es35kcPib?usp=sharing).
+
 Es necesario correr el código desde Google colab, y tener credenciales para las API's de *kaggle*, *twitter*, y *reddit*.
 
-Make sure you have the **ktrain, pandas, numpy, kaggle, matplotlib, tweepy, pymongo, credentials, transformers** and **tensorflow** packages installed in your Python development environment.
+Make sure you have the **ktrain, pandas, numpy, kaggle, matplotlib, tweepy, pymongo, credentials, transformers, seaborn** and **tensorflow** packages installed in your Python development environment.
 
 All dependencies are attached in the **requirements.txt**.
+
+Download the bert model if you want to try it from [here](https://drive.google.com/drive/folders/1-8795s0Aa8c3DfuAMa3_wX5es35kcPib?usp=sharing).
 
 You need to run the code from Google colab, and have credentials for the *kaggle*, *twitter*, and *reddit* API's.
 
